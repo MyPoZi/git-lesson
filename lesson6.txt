@@ -1,0 +1,5 @@
+lesson6
+lesson6_rebase -i
+lesson6_rebase -i rebase -i
+lesson6_rebase -i rebase -i
+lesson6_rebase -i rebase -i
